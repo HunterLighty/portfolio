@@ -1,0 +1,10 @@
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\bin\Debug\assign8.exe.config
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\bin\Debug\assign8.exe
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\bin\Debug\assign8.pdb
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.Form1.resources
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.Properties.Resources.resources
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.csproj.GenerateResource.cache
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.exe
+C:\Users\hunte\Desktop\School\Web143\Week8\assignment8_lighty\assign8\obj\Debug\assign8.pdb

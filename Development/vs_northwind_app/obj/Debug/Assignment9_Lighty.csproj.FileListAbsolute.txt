@@ -1,0 +1,10 @@
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\bin\Debug\Assignment9_Lighty.exe.config
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\bin\Debug\Assignment9_Lighty.exe
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\bin\Debug\Assignment9_Lighty.pdb
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.Form1.resources
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.Properties.Resources.resources
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.csproj.GenerateResource.cache
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.exe
+C:\Users\hunte\Desktop\School\Web143\Week9\Assignment9_Lighty\obj\Debug\Assignment9_Lighty.pdb

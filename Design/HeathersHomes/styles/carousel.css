@@ -1,0 +1,25 @@
+/*************** Carousel customizations ******************/
+.carousel-caption {background:rgba(0,0,0,0.5); right: 0%; left: 0%; bottom: 0px; padding-top: 0px;}
+.carousel-indicators {
+  bottom: 0px;
+}
+
+.carousel-container {padding-left: 0px; padding-right: 0px;}
+
+/** Super-wacky fix for safari bug showing thin line, like a border, on left carousel-control*/
+.left.carousel-control {width: 10%;}
+.right.carousel-control {width: 10%;}
+
+
+@media (min-width: 1px) and (max-width:600px) {
+	#carousel {display: none;}
+}
+
+@media (min-width: 1px) and (max-width:767px) {
+	.carousel-container {
+	  padding-left: 10px;
+	  padding-right: 10px;
+}
+}
+
+/***************End Carousel customizations ***************/

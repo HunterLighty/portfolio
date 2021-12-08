@@ -1,0 +1,10 @@
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\bin\Debug\assign6.exe.config
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\bin\Debug\assign6.exe
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\bin\Debug\assign6.pdb
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.Form1.resources
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.Properties.Resources.resources
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.csproj.GenerateResource.cache
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.exe
+C:\Users\hunte\Desktop\School\Web143\Week6\lighty_assign6\assign6\obj\Debug\assign6.pdb

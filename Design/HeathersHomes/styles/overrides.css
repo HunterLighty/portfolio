@@ -1,0 +1,96 @@
+/* 
+	template.css
+	Copyright (c) 2021 by Hunter Anthony Lighty
+	All Rights Reserved
+	
+	A website assignment using Bootstrap 4.1.3
+	for course WEB125, HTML & CSS, at
+	HACC - Central Pennsylvania's Community College
+	Professor Carl R. Petersheim, B.S.Ed., M.S.
+*/
+@font-face {
+    font-family: 'myfont';
+    src: url('../fonts/Nobile-Bold.ttf');
+    src: url('../fonts/Nobile-BoldItalic.ttf');
+    src: url('../fonts/Nobile-Italic.ttf');
+    src: url('../fonts/Nobile-Medium.ttf');
+    src: url('../fonts/Nobile-MediumItalic.ttf');
+    src: url('../fonts/Nobile-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+/* 	Tag Selector Section......................................*/
+
+body {
+	background-color: grey;
+    font-family: 'myfont', Fallback, sans-serif;
+}
+
+table {
+width: 100%;
+max-width: 100%;}
+
+
+
+/*	Class Selector Section...................................*/
+
+.container-fluid {
+	background-color: whitesmoke;
+	width: 90%;
+}
+
+.img-left-align-100 {
+        display: block;
+        text-align: left;
+        margin-right: 1em;
+        margin-left: 1em;
+        width: 100%;
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nav-item { padding-left: 1em;
+padding-right: 1em;
+    font-size: 1.5vw;
+}
+
+.text-topsales {padding-top: 7em;}
+
+.text-home {font-size: 450%;
+text-align: center;
+padding-top: 3em;
+}
+
+.text-homesub{ text-align: center}
+
+.img-list {padding-top: 3em}
+
+.img-homepage {padding-left: 1em;
+padding-top: 2em;
+width: 100%;}
+
+
+.footerclass {
+    padding-top: 2em;
+}
+
+.tableheader { padding-top: 2em;}
+/*	ID Selector Section......................................*/
+
+#DROPBUTTON   { padding-top: 5em;
+
+}
+

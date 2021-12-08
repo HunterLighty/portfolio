@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+body{
+	padding-top: 5%;
+	padding-bottom:5%;
+}
+
+img{
+	display: block;
+	
+	max-height: 1080px;
+	max-width: 1080px;
+	width: auto;
+	height: auto;
+}
